@@ -29,3 +29,25 @@ Aprender a utilizar GitHub como herramienta para almacenar y controlar versiones
 ## Resultado
 
 Se creó un repositorio funcional para almacenar el portafolio académico.
+
+# Evidencia 2: Desarrollo de un sistema en PSeInt
+
+[Captura de pantalla 2026-07-31 210630.pdf](https://github.com/user-attachments/files/30609639/Captura.de.pantalla.2026-07-31.210630.pdf)
+
+## Objetivo
+
+Aplicar estructuras básicas de programación para desarrollar un sistema de inventario.
+
+## Actividades realizadas
+
+- Declaración de variables.
+- Uso de estructuras condicionales.
+- Entrada y salida de datos.
+- Cálculo del total de ventas.
+
+## Resultado
+
+Se desarrolló un sistema capaz de registrar productos, controlar el inventario y calcular ventas.
+
+[Captura de pantalla 2026-07-31 210630.pdf](https://github.com/user-attachments/files/30609639/Captura.de.pantalla.2026-07-31.210630.pdf)
+
