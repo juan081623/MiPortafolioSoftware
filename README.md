@@ -11,5 +11,6 @@ Este repositorio contiene mi portafolio académico del programa de formación en
 - Hoja de vida
 - Proyecto académico
 - Evidencias de aprendizaje
+## Objetivo
+-Presentar los trabajos y proyectos realizados durante el proceso de formación.
 
-#
