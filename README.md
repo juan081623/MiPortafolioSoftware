@@ -13,4 +13,4 @@ Este repositorio contiene mi portafolio académico del programa de formación en
 - Evidencias de aprendizaje
 ## Objetivo
 -Presentar los trabajos y proyectos realizados durante el proceso de formación.
-
+[HOJA DE VIDA 1.docx](https://github.com/user-attachments/files/30609309/HOJA.DE.VIDA.1.docx)
